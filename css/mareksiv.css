@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     -webkit-box-sizing: border-box; 
-    /* transition: 0.2s; - sticky sidebar conflict*/
+    transition: 0.2s;
     
     scroll-behavior: smooth;
     margin: 0;
@@ -19,6 +19,7 @@ body
     
     display: flex;
     min-height: 100vh;
+
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -28,8 +29,6 @@ body
     -webkit-flex: 1 0 auto;
     -ms-flex: 1 0 auto;
     flex: 1 0 auto;
-    
-    background: #faf8f8;
     
     width: 100%;
     overflow-x: hidden;
@@ -44,6 +43,11 @@ a:hover {
 }
 a img:hover {
     opacity: 0.6;
+}
+
+a.no-style {
+    color: #000;
+    text-decoration: none;
 }
 
 h1, h2, h3, h5 {
@@ -75,6 +79,7 @@ h5 {
 
 p {
     margin-bottom: 32px;
+    max-width: 900px;
 }
 
 ul {

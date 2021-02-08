@@ -31,7 +31,54 @@
     font-size: 28px;
 }
 
+.projects {
+    margin-top: 64px;
+    
+}
+.projects .proj {
+    margin-bottom: 32px;
+}
+.projects p {
+    font-size: 28px;
+}
+.projects p span {
+    font-size: 16px;
+    color: #898989;
+}
+.projects .name {
+    font-size: 20px;
+    padding-bottom: 4px;
+}
+.projects .desc, .projects .more {
+    font-size: 16px;
+    line-height: 1.35;
+    max-width: 700px;
+}
 
+.they-said {
+    margin-top: 64px;
+    font-size: 16px;
+    line-height: 1.35;
+    background: #efeded;
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+}
+.they-said .awesome {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    max-width: 400px;
+    margin-right: 100px;
+    display:inline-grid;
+}
+.they-said .bio {
+    color: #898989;
+    margin-bottom: 32px;
+}
+
+.thats-me {
+    margin-top: 64px;
+}
 
 
 .button-primary {
@@ -57,7 +104,9 @@
 }
 
 img {
-    max-width: 100%;
-    margin-bottom: 2rem;
+    width: 100%;
+    height: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
 }
 

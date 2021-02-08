@@ -4,44 +4,13 @@
 
 @media only screen and (min-width: 48rem)
 {
-    body {
-        font-size: 20px;
-    }
-    .project h1 {
-        font-size: 80px;
-        padding-top: 6rem;
-        margin-bottom: 6rem;
 
-    }
-
-    .m-project h1 {
-        font-size: 64px;
-        padding-top: 4rem;
-        margin-bottom: 8rem;
-
-    }
-
-    .project p, .m-project p {
-        max-width: 30rem;
-        padding-top: 0.5rem;
-        padding-bottom: 0.5rem;
-    }
-
-    .work .work-title {
-        max-width: 53rem;
-        font-size: 40px;
-    }
 }
 
 @media only screen and (min-width: 62rem)
 {
     
-    .project h1, .m-project h1 {
-        font-size: 80px
-    }
-    .project p, .m-project p {
-        max-width: 50rem;
-    }
+
 }
 
 @media only screen and (min-width: 75rem)
