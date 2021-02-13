@@ -112,6 +112,21 @@ ul {
     margin-bottom: 80px;
 }
 
+.story-content .img-wrapper {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.story-content .alt {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: 14px;
+    color: #898989;
+}
+.story-content .img-wrapper img {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
 .list-group {
     margin-top: 4rem;
 }
