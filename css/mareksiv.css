@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     -webkit-box-sizing: border-box; 
-    transition: 0.2s;
+    
     
     scroll-behavior: smooth;
     margin: 0;
@@ -37,12 +37,15 @@ body
 a {
     color: #898989;
     text-decoration: underline;
+    transition: 0.2s;
 }
 a:hover {
     color: #000;
+    transition: 0.2s;
 }
 a img:hover {
-    opacity: 0.6;
+    opacity: 0.8;
+    transition: 0.2s;
 }
 
 a.no-style {
