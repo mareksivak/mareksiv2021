@@ -108,7 +108,7 @@
                 Lalamove
             </div>
             <div class="desc">
-                Lalamove makes change by empowering people to easily transfer their goods across the cities. I worked on series of projects that enhanced experience of users when they make payments on logistics platform
+                Lalamove makes change by empowering people to easily transfer their goods across the cities. I worked on series of projects that enhanced experience of users when they make payments on the logistics platform
             </div>
             <div class="more">
                 <a style="display:none" target=_blank href="#">Read more</a>
